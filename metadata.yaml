@@ -1,0 +1,39 @@
+_repo: Agnes-of-Sorrento_43076
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43076-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stowe, Harriet Beecher
+    aliases:
+    - Stowe, H. B. (Harriet Beecher)
+    - Crowfield, Christopher
+    - Stowe, Harriet Elizabeth Beecher
+    birthdate: 1811
+    deathdate: 1896
+    gutenberg_agent_id: '115'
+    url: http://www.gutenberg.org/2009/agents/115
+    wikipedia: http://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
+description: The heroine of this 1862 historical novel is Agnes, a country girl living
+  amidst the spiritual tranquility of an Italian convent. With her hand sought by
+  a cast-out Italian prince, she is torn between the prospect of love and her sense
+  of duty to the charismatic monk Savonarola, the instigator of the original and actual
+  fifteenth-century "Bonfire of the Vanities."
+gutenberg_issued: '2013-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43076'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Papacy -- History -- 1447-1565 -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Historical fiction'
+- !lcsh 'Savonarola, Girolamo, 1452-1498 -- Fiction'
+- !lcsh 'Sorrento (Italy) -- History -- Fiction'
+- !lcsh 'Catholic Church -- Italy -- History -- To 1500 -- Fiction'
+title: Agnes of Sorrento
+url: http://www.gutenberg.org/ebooks/43076
